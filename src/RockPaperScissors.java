@@ -7,7 +7,6 @@ public class RockPaperScissors
         Scanner in = new Scanner(System.in);
         String playerA = "";
         String playerB = "";
-        String trash = "";
         boolean done = false;
         String continueYN = "";
 
